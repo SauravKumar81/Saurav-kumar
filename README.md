@@ -13,5 +13,5 @@
 ![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauravkumar&show_icons=true&theme=radical)
 
 ## 📫 Connect with me
-- 🌐 [My Portfolio](https://yourwebsite.com)
-- 📧 saurav@example.com
+- 🌐 [My Portfolio]([https://reactjs-protfolio.netlify.app/])
+- 📧 Sauravedu.official@gmail.com
